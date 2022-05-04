@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    border: 1px solid hotpink;
+    background-color: pink;
+    margin: 40px;
+    /* height: 500px; */
+    padding-bottom: 50px;
+    text-align: center;
+}
+.container h2{
+    font-size: 70px;
+    color: white;
+}
+.container input{
+  width: 70%;
+  height: 40px;
+  border: none;
+}
+.container button{
+  width: 80px;
+  height: 40px;
+  background-color: hotpink;
+  border: none;
+  margin-left: 20px;
+}
+.style{
+  list-style: none;
+  border: hotpink 2px groove;
+  color: hotpink;
+  font-size: 30px;
+  background-color: #fff;
+  margin-top: 20px;
+ 
+}
